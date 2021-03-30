@@ -1,0 +1,10 @@
+Cara penggunaan aplikasi:
+1. Install gradle dan app nya di Android yang disediakan Android Studio, ataupun melalui emulator.
+2. Jika sudah muncul layar utama , lanjut pada menu login, jika belum memiliki akun, maka mendaftar pada menu registrasi, 
+dan akan mengarah pada layar utama.
+3. Kemudian Jika sudah dapat login, akan mengarah kepada menu utama
+dimana akan ada fitu tentang covid, jumlah penyebaran covid di Indonesia, juga 
+ada fitur profile dan juga fitur viro yang terdapat beberapa pertanyaan kepada kita untuk mengetahui keadaan kita saat ini juga
+4. Jika sudah selesai menggunakan applikasi tersebut, dapat keluar langsung maupun menekan tombol logout yang ada pada menu Utama.
+
+Sekian penjelasan dari penggunaan aplikasi kami, Terima Kasih.

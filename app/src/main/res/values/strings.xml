@@ -1,0 +1,64 @@
+<resources>
+    <string name="app_name">G.Jala</string>
+    <string name="create_account">Create Account</string>
+    <string name="search">Search</string>
+    <string name="tab2">Tab2</string>
+    <string name="logo">Logo</string>
+    <string name="about">About</string>
+    <string name="logout">Logout</string>
+    <string name="profile">Profile</string>
+    <string name="welCome">Selamat Datang di G.jala</string>
+    <string name="navigation_drawer_open">Open Navigation Drawer</string>
+    <string name="navigation_drawer_close">close Navigation Drawer</string>
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="profile_fragment">Profile fragment</string>
+    <string name="message_fragment">Message fragment</string>
+    <string name="message">Message</string>
+    <string name="this_is_a_sample_message_that_will_appear">This is a sample message that will appear</string>
+    <string name="positif">Positif</string>
+    <string name="aplikasi_konsultasi_covid_19">Aplikasi Konsultasi Covid 19.</string>
+    <string name="informasi_covid_19">Informasi Covid 19</string>
+    <string name="info_covid19">Info COVID19</string>
+    <string name="dirawat">Dirawat</string>
+    <string name="sembuh">Sembuh</string>
+    <string name="meninggal">Meninggal</string>
+    <string name="provinsi">PROVINSI</string>
+    <string name="register">REGISTER</string>
+    <string name="forgot_password">Forgot password?</string>
+    <string name="password">Password</string>
+    <string name="login">Login</string>
+    <string name="email">Email</string>
+    <string name="signup">SignUp</string>
+    <string name="sudah_memiliki_akun">Sudah Memiliki Akun?</string>
+    <string name="viro">Viro</string>
+    <string name="tidak_tahu">Tidak Tahu</string>
+    <string name="tidak">Tidak</string>
+    <string name="iya">Iya</string>
+    <string name="_2_apakah_anda_merasakan_rasa_tidak_nyaman_dan_nyeri_di_tubuh_anda">2. Apakah anda merasakan rasa tidak nyaman dan nyeri di tubuh anda</string>
+    <string name="cek_keadaan">Cek Keadaan</string>
+    <string name="_1_apakah_anda_merasa_demam">1. Apakah anda merasa Demam?</string>
+    <string name="_3_apakah_anda_merasakan_nyeri_di_tenggorokan">3. Apakah anda merasakan nyeri di tenggorokan?</string>
+    <string name="proses">Proses</string>
+    <string name="_3_apakah_anda_merasa_nyeri_di_dada_atau_rasa_tertekan_pada_dada">3. Apakah anda merasa nyeri di dada atau rasa tertekan pada dada</string>
+    <string name="_4_apakah_ada_perubahan_warna_kulit_pada_jari_tangan_atau_jari_kaki_serta_ruam_pada_kuliat">4. Apakah ada perubahan warna kulit pada jari tangan atau jari kaki, serta ruam pada kuliat</string>
+    <string name="_5_apakah_anda_mengalami_diare_beberapa_hari_ini">5. Apakah anda mengalami diare beberapa hari ini</string>
+    <string name="coba_lagi">Coba lagi</string>
+    <string name="berita_covid">Berita Covid</string>
+    <string name="apa_itu_covid">Apa itu Covid?</string>
+    <string name="berita1">       Infeksi virus Corona disebut COVID-19 (Corona Virus Disease 2019) dan pertama kali ditemukan di kota Wuhan, China pada akhir Desember 2019. Virus ini menular dengan sangat cepat dan telah menyebar ke hampir semua negara, termasuk Indonesia, hanya dalam waktu beberapa bulan.
+
+Hal tersebut membuat beberapa negara menerapkan kebijakan untuk memberlakukan lockdown dalam rangka mencegah penyebaran virus Corona. Di Indonesia sendiri, diberlakukan kebijakan Pembatasan Sosial Berskala Besar (PSBB) untuk menekan penyebaran virus ini.
+
+Coronavirus adalah kumpulan virus yang bisa menginfeksi sistem pernapasan. Pada banyak kasus, virus ini hanya menyebabkan infeksi pernapasan ringan, seperti flu. Namun, virus ini juga bisa menyebabkan infeksi pernapasan berat, seperti infeksi paru-paru (pneumonia).
+
+Virus ini menular melalui percikan dahak (droplet) dari saluran pernapasan, misalnya ketika berada di ruang tertutup yang ramai dengan sirkulasi udara yang kurang baik atau kontak langsung dengan droplet.
+
+Selain virus SARS-CoV-2 atau virus Corona, virus yang juga termasuk dalam kelompok ini adalah virus penyebab Severe Acute Respiratory Syndrome (SARS) dan virus penyebab Middle-East Respiratory Syndrome (MERS). Meski disebabkan oleh virus dari kelompok yang sama, yaitu coronavirus, COVID-19 memiliki beberapa perbedaan dengan SARS dan MERS, antara lain dalam hal kecepatan penyebaran dan keparahan gejala.</string>
+    <string name="head1">Gejala Virus Covid</string>
+    <string name="berita2">Secara umum, ada 3 gejala umum yang bisa menandakan seseorang terinfeksi virus Corona, yaitu:</string>
+    <string name="berita3">●Demam\n●Batuk Kering\n●Sesak napas\nAda beberapa gejala lain yang juga bisa muncul pada infeksi virus Corona meskipun lebih jarang, yaitu:\n●Diare\n●Sakit Kepala\n●Konjungtivitis\n●Hilang Kemampuan untuk mencium bau\n●Ruam Di Kulit</string>
+    <string name="name">Name</string>
+    <string name="save">Save</string>
+    <string name="jenis_kelamin">Jenis Kelamin</string>
+    <string name="mengenal_apa_itu_covid_19">Mengenal Apa itu Covid-19</string>
+</resources>
